@@ -122,6 +122,9 @@ Ensure the following files are present in the project directory before running t
 
 * Dipak Choudhary
 
+## Link to the website
+* (https://ecogrowth.streamlit.app/)
+
 ## License
 
 This project is developed for educational and research purposes.
