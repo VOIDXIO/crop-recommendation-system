@@ -123,7 +123,7 @@ Ensure the following files are present in the project directory before running t
 * Dipak Choudhary
 
 ## Link to the website
-* (https://ecogrowth.streamlit.app/)
+* if you just want to check out the project just click on this (https://ecogrowth.streamlit.app/)
 
 ## License
 
